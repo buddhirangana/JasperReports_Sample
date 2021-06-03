@@ -1,6 +1,6 @@
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
+<img src="https://github.com/buddhirangana/JasperReports_Sample/image/Screenshot.PNG" alt="Screenshot"/>
 
 This is a simple program develop using Java, MySQL & Jasper reports library. This program help to generate reports in your database.
 It's easy to use.
@@ -25,5 +25,3 @@ It's easy to use.
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-[product-screenshot]: images/Screenshot.png
