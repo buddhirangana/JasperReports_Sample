@@ -1,6 +1,6 @@
 ## About The Project
 
-<img src="https://github.com/buddhirangana/JasperReports_Sample/image/Screenshot.PNG" alt="Screenshot"/>
+<img src="https://github.com/buddhirangana/JasperReports_Sample/blob/main/images/Screenshot.PNG" alt="Screenshot"/>
 
 This is a simple program develop using Java, MySQL & Jasper reports library. This program help to generate reports in your database.
 It's easy to use.
